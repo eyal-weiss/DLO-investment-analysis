@@ -37,6 +37,13 @@ DLocal operates as critical payments infrastructure in the world's fastest-growi
 - Cross-checked with EV/EBITDA and P/E exit multiple valuations
 - Scenario analysis across bull, base, and bear cases
 
+## Data Sources
+
+- [Investor Relations](https://investor.dlocal.com/)
+- [SEC Filings (20-F)](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001839439&type=20-F&dateb=&owner=include&count=10)
+- [Quarterly Earnings](https://investor.dlocal.com/financial-information/quarterly-results)
+- [Company Website](https://dlocal.com/)
+
 ## Disclaimer
 
 This repository is an analytical exercise based on publicly available financial data and a proprietary financial model. It is **not investment advice**. All projections are estimates and subject to significant uncertainty. Past performance does not guarantee future results. DLocal operates in emerging markets subject to heightened political, economic, and currency risks. The author may hold positions in the securities discussed.
