@@ -60,6 +60,8 @@ The September 2020 round made dLocal **Uruguay's first-ever unicorn** and one of
 | Jun 2025 | Announced intention to acquire AZA Finance (Africa expansion, ~$150M) |
 | Aug 2025 | Guillermo Lopez Perez appointed CFO (ex-Visa, ex-Amex) |
 | Dec 2025 | Board reaches majority-independent composition (5 of 9 directors independent) |
+| FY 2025 | FY2025 revenue $1,094M (+47% YoY), TPV $40.8B (+59% YoY), FCF $190.7M |
+| FY 2025 | Announced $57.2M dividend and $300M share buyback authorization |
 
 ### Geographic Expansion Timeline
 
@@ -70,7 +72,7 @@ DLocal started in Brazil and Latin America, then systematically expanded:
 - **Middle East:** UAE, Saudi Arabia, Jordan, Turkey
 - **UK/Europe:** Secured FCA license in Jan 2025 to onboard UK merchants; holds EU licenses
 
-The company now operates in **40+ countries** with **900+ local payment methods**.
+The company now operates in **44 markets** with **900+ local payment methods**.
 
 ### Stock Price History
 
@@ -81,9 +83,9 @@ The company now operates in **40+ countries** with **900+ local payment methods*
 | Post-Muddy Waters (Nov 2022) | Dropped from ~$20 to ~$10 in a day | ~50% single-day decline |
 | All-time low | $6.57 (Aug 5, 2024) | Broad EM fintech sell-off |
 | 52-week range (as of early 2026) | $7.61 - $16.78 | |
-| Recent (Feb 2026) | ~$12 | ~84% below ATH |
+| Recent (Mar 21, 2026) | $12.14 | ~83% below ATH |
 
-The stock's decline from $73 to sub-$12 reflects a combination of: fintech multiple compression (2022-2023), short seller attacks, take rate compression concerns, and emerging market macro headwinds.
+The stock's decline from $73 to ~$12 reflects a combination of: fintech multiple compression (2022-2023), short seller attacks, take rate compression concerns, and emerging market macro headwinds.
 
 ---
 
@@ -178,8 +180,9 @@ DLocal is the first company from Uruguay (population ~3.5 million) to achieve un
 | 2022 | ~$419M | ~72% |
 | 2023 | ~$650M | ~55% |
 | 2024 | ~$746M | ~15% |
+| 2025 | $1,094M | ~47% |
 
-Revenue growth decelerated in 2024, driven primarily by take rate compression even as volume growth accelerated.
+Revenue growth re-accelerated sharply in FY2025, driven by TPV growth of 59% that more than offset continued net take rate compression.
 
 ### Total Payment Volume (TPV)
 
@@ -189,8 +192,10 @@ Revenue growth decelerated in 2024, driven primarily by take rate compression ev
 | FY 2024 | ~$25.6B | 45% |
 | Q1 2025 | $8.1B | 53% |
 | Q3 2025 | $10.4B | 59% |
+| Q4 2025 | $13.1B | 70% |
+| FY 2025 | $40.8B | 59% |
 
-TPV growth has been re-accelerating, from 45% in FY2024 to nearly 60% in Q3 2025.
+TPV growth re-accelerated throughout 2025, from 45% in FY2024 to 59% for FY2025, with Q4 2025 reaching 70% YoY growth.
 
 ### Net Revenue Retention (NRR)
 
@@ -202,24 +207,46 @@ One of dLocal's most remarkable historical metrics -- showing how existing merch
 | FY 2022 | 165% |
 | Q4 2023 | 149% |
 | Q4 2024 | 106% |
+| Q3 2025 | 149% |
+| Q4 2025 | 145% |
+| FY2025 TPV retention | 158% |
 
-The decline from 219% to 106% reflects both the maturation of early cohorts and an increasingly large base. Even at 106%, existing merchants continue to organically grow.
+NRR re-accelerated sharply in FY2025, from the 106% trough at Q4 2024 to sustained 140%+ levels, driven by existing merchant expansion into new countries and product adoption.
 
 ### Profitability
-DLocal claims to have been **profitable every single year since founding** (2016 onward). This is extremely rare for a high-growth fintech. FY2024 gross profit: $295M. Adjusted EBITDA: ~$189M (though down 7% YoY due to investment in infrastructure).
+DLocal claims to have been **profitable every single year since founding** (2016 onward). This is extremely rare for a high-growth fintech. FY2025 revenue: $1,094M, Adjusted EBITDA: ~$274M (25% margin), full-year FCF: $190.7M. Q4 2025 highlights: revenue $337.9M (+65% YoY), TPV $13.1B (+70% YoY), net take rate 0.88%.
+
+### FY2025 Notable Milestones
+- 3.5 billion pay-in transactions annually (~6,700/minute)
+- 100M+ individuals received payouts in FY2025
+- ROE: 35% (up 10pp YoY)
+- 64% of adjusted FCF returned to shareholders since 2022
+- AI delivering productivity equivalent of ~7% of total headcount
+
+### New Product Launches (Q4 2025)
+- **BNPL (Fuse):** 88% QoQ growth in Q4 2025, live in 6 countries. Management expects it "unlikely to move the needle in 2026 but by 2027 could be material."
+- **Card-Present Payments:** Launching via smart POS hardware for international merchants in emerging markets. Management describes this as opening "by far the largest addressable market" but cautions it is "an embryonic product launch."
+- **Stablecoins:** Full-suite platform launched including fiat on/off-ramps, stablecoin settlements, and checkout collection.
+
+### Recent Merchant Wins
+- DHL Express, Open English, and Google (Q4 2025 implementations)
+- Top 50 merchants served across an average of 12 countries and 50 payment methods
+
+### Competitive Dynamics — Egypt
+Egypt experienced a notable merchant concentration event in FY2025: a large merchant moved from 100% share-of-wallet with DLocal to sub-50% by adding a redundant processor. DLocal is recovering share through performance but management acknowledges the relationship will structurally never return to 100%. This highlights the importance of merchant diversification.
 
 ### Merchant Base
-- 700+ merchants globally
+- 760+ merchants globally (as of Q4 2025)
 - 5 of the 6 largest tech companies in the world are clients
 - Top 10 customers represented ~56% of revenue (as of 2021); only 1 customer >10% of revenue
 - 10 different verticals served; no single vertical >20% of TPV
 - Named clients include: Amazon, Microsoft, Uber, Meta, Spotify, Shopify, Booking.com, GoDaddy, Didi, Dropbox, TripAdvisor, Wikimedia, Zara, Temu
 
 ### Geographic & Payment Method Coverage
-- 40+ countries
+- 44 markets
 - 900+ local payment methods supported
 - 14 countries in Africa alone
-- 30+ regulatory licenses, permissions, and registrations globally
+- 37 licenses across 26 jurisdictions; 16 new applications pending (including US for settlement compliance)
 
 ### Key Partnership: Temu (March 2025)
 DLocal partnered with Temu to provide payment processing across 14 emerging markets in Africa, Asia, and Latin America -- demonstrating its ability to win major Chinese e-commerce platform business.
@@ -273,7 +300,7 @@ Hollenden Square Research (HSR), a private entity with a disclosed net short pos
 
 ### Recurring Bear Arguments
 
-1. **Take rate compression:** Net take rate has declined from ~1.4% in 2022 to ~1.0% in Q3 2025. Bears argue this reflects commoditization of EM payments and pricing pressure from larger competitors (Adyen, Stripe) entering these markets
+1. **Take rate compression:** Net take rate has declined from ~1.4% in 2022 to 0.88% in Q4 2025. Bears argue this reflects commoditization of EM payments and pricing pressure from larger competitors (Adyen, Stripe) entering these markets
 2. **AstroPay/Directa24 related-party risk:** The shared founding principals and alleged ongoing connections between these entities remain a governance concern for some investors
 3. **Customer concentration:** Heavy reliance on large tech merchants gives those clients significant pricing leverage
 4. **FX exposure:** A meaningful portion of gross profit comes from FX spreads, which are volatile and could compress as markets mature and competition increases
@@ -341,7 +368,7 @@ As of early 2026: ~12.6 million shares short, representing **~16.7% of float** -
 
 DLocal's key defensible advantages vs. the competitive set:
 
-1. **Regulatory web:** 30+ licenses across 40+ countries -- extremely time-consuming and expensive to replicate
+1. **Regulatory web:** 37 licenses across 26 jurisdictions (with 16 pending) covering 44 markets -- extremely time-consuming and expensive to replicate
 2. **Local payment method coverage:** 900+ methods vs. competitors' 100-300
 3. **Single API for all EMs:** No competitor offers comparable breadth across LatAm + Africa + Asia via one integration
 4. **Enterprise trust:** Serving 5 of the 6 largest tech companies validates the platform's reliability at scale
@@ -352,4 +379,4 @@ The primary competitive risk is that global giants (Adyen, Stripe) gradually bui
 
 ---
 
-*Research compiled March 2026. Information is based on publicly available sources and may contain inaccuracies. Investors should verify all data independently.*
+*Research compiled March 21, 2026. Information is based on publicly available sources and may contain inaccuracies. Investors should verify all data independently.*
