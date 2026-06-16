@@ -12,19 +12,19 @@ Independent investment analysis of DLocal Limited, the leading emerging-market p
 
 ## Thesis Summary
 
-**Date:** March 21, 2026 | **Stock price:** $12.14 | **Data basis:** FY2025 full-year audited results
+**Date:** June 16, 2026 | **Stock price:** $12.25 | **Data basis:** Q1 2026 results (reported May 14, 2026) + FY2025 audited results
 
-DLocal operates as critical payments infrastructure in the world's fastest-growing consumer markets. The company processed $40.8B in TPV in FY2025 across 40+ countries through a single-API platform, generating $1,094M in revenue with 25% Adjusted EBITDA margins.
+DLocal operates as critical payments infrastructure in the world's fastest-growing consumer markets. The company processed $40.8B in TPV in FY2025 across 40+ countries through a single-API platform, generating $1,094M in revenue. Q1 2026 confirmed the trajectory: TPV crossed $14B for the first time ($14.1B, +73% YoY — a sixth straight quarter of 50%+ growth), revenue of $335.9M (+55%), and record gross profit of $118.7M (+40%); management reaffirmed full-year guidance.
 
 ### DCF Valuation (diluted)
 
 | Scenario | Implied Price | 2030E Revenue | 2030E Adj EBITDA |
 |----------|--------------|---------------|------------------|
-| Bull     | $37.85       | $4,610M       | $1,183M          |
-| Base     | $25.91       | $3,787M       | $859M            |
-| Bear     | $14.40       | $2,774M       | $478M            |
+| Bull     | $37.98       | $4,610M       | $1,095M          |
+| Base     | $26.04       | $3,787M       | $810M            |
+| Bear     | $14.49       | $2,774M       | $489M            |
 
-Base case implies **+113% upside** from current $12.14. Shares flat at 305M (buybacks offset dilution); 30% of FCF returned as dividends.
+Base case implies **+113% upside** from current $12.25. Shares flat at 305M ($300M buyback authorization offsets dilution); 30% of FCF returned as dividends.
 
 ### Key Investment Pillars
 
@@ -46,6 +46,7 @@ Base case implies **+113% upside** from current $12.14. Shares flat at 305M (buy
 - [Investor Relations](https://investor.dlocal.com/)
 - [SEC Filings (20-F)](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001839439&type=20-F&dateb=&owner=include&count=10)
 - [Quarterly Earnings](https://investor.dlocal.com/financial-information/quarterly-results)
+- [Q1 2026 Results (May 14, 2026)](https://www.globenewswire.com/news-release/2026/05/14/3295379/0/en/dlocal-reports-first-quarter-2026-financial-results.html)
 - [Q4 FY2025 Results](https://www.stocktitan.net/news/DLO/d-local-reports-2025-fourth-quarter-financial-m11toka2fiil.html)
 - [Company Website](https://dlocal.com/)
 

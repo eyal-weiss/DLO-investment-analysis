@@ -62,6 +62,8 @@ The September 2020 round made dLocal **Uruguay's first-ever unicorn** and one of
 | Dec 2025 | Board reaches majority-independent composition (5 of 9 directors independent) |
 | FY 2025 | FY2025 revenue $1,094M (+47% YoY), TPV $40.8B (+59% YoY), FCF $190.7M |
 | FY 2025 | Announced $57.2M dividend and $300M share buyback authorization |
+| Q1 2026 (May 14, 2026) | TPV $14.1B (+73% YoY, first quarter above $14B), revenue $335.9M (+55%), record gross profit $118.7M (+40%); guidance reaffirmed |
+| Q1 2026 | Adopted operating profit as headline profitability metric (Adj. EBITDA no longer separately disclosed); stablecoin settlement went live; Africa asset acquisition closed |
 
 ### Geographic Expansion Timeline
 
@@ -82,8 +84,8 @@ The company now operates in **44 markets** with **900+ local payment methods**.
 | All-time high | ~$73 (Sep 1, 2021) | Just 3 months post-IPO |
 | Post-Muddy Waters (Nov 2022) | Dropped from ~$20 to ~$10 in a day | ~50% single-day decline |
 | All-time low | $6.57 (Aug 5, 2024) | Broad EM fintech sell-off |
-| 52-week range (as of early 2026) | $7.61 - $16.78 | |
-| Recent (Mar 21, 2026) | $12.14 | ~83% below ATH |
+| 52-week range (as of mid 2026) | $7.61 - $16.78 | |
+| Recent (Jun 16, 2026) | $12.25 | ~83% below ATH |
 
 The stock's decline from $73 to ~$12 reflects a combination of: fintech multiple compression (2022-2023), short seller attacks, take rate compression concerns, and emerging market macro headwinds.
 
@@ -194,8 +196,9 @@ Revenue growth re-accelerated sharply in FY2025, driven by TPV growth of 59% tha
 | Q3 2025 | $10.4B | 59% |
 | Q4 2025 | $13.1B | 70% |
 | FY 2025 | $40.8B | 59% |
+| Q1 2026 | $14.1B | 73% |
 
-TPV growth re-accelerated throughout 2025, from 45% in FY2024 to 59% for FY2025, with Q4 2025 reaching 70% YoY growth.
+TPV growth re-accelerated throughout 2025 (45% in FY2024 to 59% for FY2025) and remained strong into Q1 2026, which reached $14.1B at +73% YoY — the sixth consecutive quarter of 50%+ growth and the first quarter above $14B.
 
 ### Net Revenue Retention (NRR)
 
@@ -210,11 +213,12 @@ One of dLocal's most remarkable historical metrics -- showing how existing merch
 | Q3 2025 | 149% |
 | Q4 2025 | 145% |
 | FY2025 TPV retention | 158% |
+| Q1 2026 | not disclosed |
 
-NRR re-accelerated sharply in FY2025, from the 106% trough at Q4 2024 to sustained 140%+ levels, driven by existing merchant expansion into new countries and product adoption.
+NRR re-accelerated sharply in FY2025, from the 106% trough at Q4 2024 to sustained 140%+ levels, driven by existing merchant expansion into new countries and product adoption. dLocal did not separately disclose NRR in the Q1 2026 release.
 
 ### Profitability
-DLocal claims to have been **profitable every single year since founding** (2016 onward). This is extremely rare for a high-growth fintech. FY2025 revenue: $1,094M, Adjusted EBITDA: ~$274M (25% margin), full-year FCF: $190.7M. Q4 2025 highlights: revenue $337.9M (+65% YoY), TPV $13.1B (+70% YoY), net take rate 0.88%.
+DLocal claims to have been **profitable every single year since founding** (2016 onward). This is extremely rare for a high-growth fintech. FY2025 revenue: $1,094M, Adjusted EBITDA: ~$274M (25% margin), full-year FCF: $190.7M. **Q1 2026 highlights:** revenue $335.9M (+55% YoY), TPV $14.1B (+73% YoY), record gross profit $118.7M (+40%), net take rate 0.84%; underlying operating profit $57.2M (+25%) and net income $51.6M (+11%), both excluding a one-off $9.7M prior-periods tax adjustment (reported operating profit $52.8M, net income $41.9M). Starting in 2026, dLocal reports **operating profit** as its headline profitability metric and no longer separately discloses Adjusted EBITDA.
 
 ### FY2025 Notable Milestones
 - 3.5 billion pay-in transactions annually (~6,700/minute)
@@ -227,6 +231,14 @@ DLocal claims to have been **profitable every single year since founding** (2016
 - **BNPL (Fuse):** 88% QoQ growth in Q4 2025, live in 6 countries. Management expects it "unlikely to move the needle in 2026 but by 2027 could be material."
 - **Card-Present Payments:** Launching via smart POS hardware for international merchants in emerging markets. Management describes this as opening "by far the largest addressable market" but cautions it is "an embryonic product launch."
 - **Stablecoins:** Full-suite platform launched including fiat on/off-ramps, stablecoin settlements, and checkout collection.
+
+### Q1 2026 Developments
+- **Stablecoin settlement went live** in the quarter (first production use largely with digital-asset exchanges).
+- **New verticals:** Travel grew +38% QoQ; Gaming emerged as an early-stage opportunity leveraging the merchant-of-record product at higher take rates.
+- **Africa & Asia** reached 29% of gross profit (+16% QoQ); Argentina recovered from Q4 weakness.
+- **Africa asset acquisition closed** (capabilities added; no immediate revenue contribution).
+- **Card-present** in-person solutions slated for H2 2026 with a major global client.
+- Management expects **operating leverage to improve in H2 2026** as 2025 cost carryover fades (fading annualization, automation, no net new hiring, lower SBC).
 
 ### Recent Merchant Wins
 - DHL Express, Open English, and Google (Q4 2025 implementations)
@@ -300,7 +312,7 @@ Hollenden Square Research (HSR), a private entity with a disclosed net short pos
 
 ### Recurring Bear Arguments
 
-1. **Take rate compression:** Net take rate has declined from ~1.4% in 2022 to 0.88% in Q4 2025. Bears argue this reflects commoditization of EM payments and pricing pressure from larger competitors (Adyen, Stripe) entering these markets
+1. **Take rate compression:** Net take rate has declined from ~1.4% in 2022 to 0.99% for FY2025 and 0.84% in Q1 2026. Bears argue this reflects commoditization of EM payments and pricing pressure from larger competitors (Adyen, Stripe) entering these markets
 2. **AstroPay/Directa24 related-party risk:** The shared founding principals and alleged ongoing connections between these entities remain a governance concern for some investors
 3. **Customer concentration:** Heavy reliance on large tech merchants gives those clients significant pricing leverage
 4. **FX exposure:** A meaningful portion of gross profit comes from FX spreads, which are volatile and could compress as markets mature and competition increases
@@ -379,4 +391,4 @@ The primary competitive risk is that global giants (Adyen, Stripe) gradually bui
 
 ---
 
-*Research compiled March 21, 2026. Information is based on publicly available sources and may contain inaccuracies. Investors should verify all data independently.*
+*Research compiled March 21, 2026; updated June 16, 2026 (post-Q1 2026 results). Information is based on publicly available sources and may contain inaccuracies. Investors should verify all data independently.*
