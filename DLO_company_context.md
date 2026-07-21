@@ -57,13 +57,13 @@ The September 2020 round made dLocal **Uruguay's first-ever unicorn** and one of
 | Dec 2024 | Jacobo Singer steps down from operational roles, remains on board |
 | Jan 2025 | Secured UK FCA Authorised Payment Institution license; partnership with ICC UK |
 | Feb 2025 | Hollenden Square Research publishes second short report; stock drops ~10% |
-| Jun 2025 | Announced intention to acquire AZA Finance (Africa expansion, ~$150M) |
+| Jun 2025 | Announced intention to acquire AZA Finance (Africa expansion; initially framed at ~$150M) |
 | Aug 2025 | Guillermo Lopez Perez appointed CFO (ex-Visa, ex-Amex) |
 | Dec 2025 | Board reaches majority-independent composition (5 of 9 directors independent) |
 | FY 2025 | FY2025 revenue $1,094M (+47% YoY), TPV $40.8B (+59% YoY), FCF $190.7M |
 | FY 2025 | Announced $57.2M dividend and $300M share buyback authorization |
 | Q1 2026 (May 14, 2026) | TPV $14.1B (+73% YoY, first quarter above $14B), revenue $335.9M (+55%), record gross profit $118.7M (+40%); guidance reaffirmed |
-| Q1 2026 | Adopted operating profit as headline profitability metric (Adj. EBITDA no longer separately disclosed); stablecoin settlement went live; Africa asset acquisition closed |
+| Q1 2026 | Adopted operating profit as headline profitability metric (Adj. EBITDA no longer separately disclosed); stablecoin settlement went live; AZA Finance / Africa asset acquisition closed (Feb 27, 2026) — closed materially smaller than the ~$150M originally framed, ~$24M asset-and-license purchase (Mint Code Cameroon entity, payment license, brand/IP, customer relationships) after regulatory complications, largely settled by canceling debt dLocal had extended |
 
 ### Geographic Expansion Timeline
 

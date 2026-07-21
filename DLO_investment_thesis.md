@@ -32,15 +32,16 @@ The thesis rests on three pillars: (1) TPV growth driven by merchant expansion a
 
 1. [Executive Summary](#executive-summary)
 2. [Company Overview](#company-overview)
-3. [Key Concepts an Investor Must Understand](#key-concepts-an-investor-must-understand)
-4. [Growth Strategy / Key Opportunities](#growth-strategy--key-opportunities)
-5. [Scenario Analysis](#scenario-analysis)
-6. [DCF Valuation Methodology](#dcf-valuation-methodology)
-7. [Exit Multiple Valuation (2035E)](#exit-multiple-valuation-2035e)
-8. [Peer Comparison](#peer-comparison)
-9. [Key Risks](#key-risks)
-10. [Conclusion](#conclusion)
-11. [Sources](#sources)
+3. [Emerging Markets: The Regional Backdrop](#emerging-markets-the-regional-backdrop)
+4. [Key Concepts an Investor Must Understand](#key-concepts-an-investor-must-understand)
+5. [Growth Strategy / Key Opportunities](#growth-strategy--key-opportunities)
+6. [Scenario Analysis](#scenario-analysis)
+7. [DCF Valuation Methodology](#dcf-valuation-methodology)
+8. [Exit Multiple Valuation (2035E)](#exit-multiple-valuation-2035e)
+9. [Peer Comparison](#peer-comparison)
+10. [Key Risks](#key-risks)
+11. [Conclusion](#conclusion)
+12. [Sources](#sources)
 
 ---
 
@@ -68,6 +69,51 @@ The thesis rests on three pillars: (1) TPV growth driven by merchant expansion a
 *¹ Q1 2026 net income on an underlying basis (excluding a one-off $9.7M prior-periods tax adjustment); reported net income was $41.9M. Adj. EBITDA is estimated — dLocal moved to operating profit as its headline profitability metric in 2026 and no longer discloses Adjusted EBITDA separately.*
 
 DLocal now operates across 44 markets with 37 licenses across 26 jurisdictions. At scale, the platform processes 3.5 billion pay-in transactions annually (~6,700/minute), and over 100 million individuals received payouts through the platform in FY2025.
+
+---
+
+## Emerging Markets: The Regional Backdrop
+
+DLocal cannot be valued without understanding the markets it sells into. Where a Grab is a bet on Southeast Asia and a MercadoLibre is a bet on Latin America, **DLocal is a bet on the structural pattern those regions share** — and on its repetition across every emerging market on earth. That pattern is consistent from São Paulo to Lagos to Mumbai: large, young, fast-urbanizing populations; majorities that are unbanked or "banked-but-creditless"; a chaos of fragmented, non-interoperable local payment methods; a secular migration from cash to digital; proliferating real-time payment rails; and a cross-border layer that legacy correspondent banking serves slowly and expensively. DLocal monetizes that pattern wherever it appears, which is why its geographic mix (LatAm ≈75% of FY2024 revenue, Africa & Asia ≈25% of revenue and **29% of gross profit by Q1 2026**) is not four separate stories but one story told in four currencies. The durability of the 10-year DCF rests on the durability of these backdrops, so we map each in turn.
+
+**The unifying numbers frame the opportunity.** Roughly **1.3 billion adults remain unbanked**, and more than half of them live in just eight countries — Nigeria, Egypt, India among them — every one a DLocal market (World Bank Global Findex 2025). About **$26 trillion is still paid in cash globally**, declining ~4% a year, and in low- and middle-income economies only ~61% of adults made or received a digital payment in 2024. Emerging-market non-cash payments have compounded at roughly **25% annually — about double the global pace** (McKinsey). DLocal sizes its own addressable market — emerging-market digital commerce plus inward remittances — at **~$2.1 trillion in 2025, doubling to ~$4.2 trillion by 2030**, of which it processes under 2%. Everything below is where that <2% becomes a larger number.
+
+### Latin America — the core engine (≈75% of revenue)
+
+LatAm is DLocal's origin and still the bulk of the business (Brazil, Mexico, Argentina and Chile alone are ~58% of FY2024 revenue). The region is home to ~668 million people, is among the **most urbanized on earth (>80% urban)**, and crossed a milestone in 2025 when the middle class became the single largest income group (~43% of households). Critically for the valuation, the macro backdrop is *not* a tailwind: LatAm is the **slowest-growing region in the world (~2% real GDP)**, which means DLocal's growth must come from *penetration*, not GDP — e-commerce is still only **~10–12% of retail** (roughly one-third of China's), and the region was nonetheless the world's fastest-growing retail e-commerce market in 2025 (+12%).
+
+The payments structure is the opportunity. Latin America has largely solved access to a *wallet* but not access to *credit*: account ownership reached ~70% but only **~25% of adults own a credit card**, and Mexico — ~46M unbanked adults, 14% card ownership, ~47% of spending still cash — is the asymmetric greenfield. The signature rail is **Brazil's Pix**, the central-bank instant-payment network now used by **~93% of adults** (~$6.7T moved in 2025), which both *enabled* the digital-commerce boom and, because it is near-free, *pressures* the economics of every processor — the LatAm expression of DLocal's take-rate debate. Add a notoriously broken physical-logistics layer and a "parcelado"/installments culture underpinning ~60% of e-commerce, and the result is a market where a global merchant simply cannot operate on cards-plus-correspondent-banking alone. *(This subsection condenses the regional analysis developed in the MercadoLibre thesis.)*
+
+### Africa — the fastest-growing region and the mobile-money frontier
+
+Africa is DLocal's highest-growth, highest-optionality region — 14 countries including **Nigeria, Egypt, Kenya, South Africa, Morocco and Ghana** — and the one where the "complexity moat" is deepest. The demographics are unmatched: **~1.5 billion people, the youngest population on earth (median age ~19.5)**, urbanizing at ~3.5%/year, on track to **~2.5 billion (>25% of humanity) by 2050**. Aggregate GDP is ~$2.8 trillion growing **~4.2–4.3%** — faster than the world — though internet penetration (~43%) and incomes still sit on a low base, which is the runway.
+
+The defining fact is **mobile money**. Africa is the global capital of it: Sub-Saharan Africa transacted **~$1.4 trillion through mobile money in 2025 — over two-thirds of the global total** — and holds ~1.1 billion of the world's ~2.3 billion registered accounts (GSMA). M-Pesa alone moved ~$322B in its latest fiscal year with ~89% share in Kenya. But the ecosystem is brutally **fragmented and non-interoperable**: MTN MoMo, Airtel Money, Orange Money and M-Pesa each dominate different countries, domestic card schemes like Nigeria's **Verve (>70M cards, more than Visa and Mastercard combined there)** sit alongside them, and instant rails (Nigeria's NIBSS, which cleared ₦1.07 *quadrillion* in 2024; Egypt's IPN; the pan-African PAPSS) are layered on top. Under-banking remains high outside the leaders — Nigeria ~37% of adults unbanked, Egypt on a low base, versus Kenya 90% and South Africa 81% banked — and Egypt and Nigeria are among the eight countries holding most of the world's unbanked.
+
+For a *cross-border* processor this is the richest friction on the planet. More than **80% of intra-African cross-border payments still route through US/EU correspondent banks, adding 2–5% per hop**, and chronic FX controls and dollar scarcity (acute in Nigeria and Egypt) make settlement and profit repatriation a genuinely scarce, monetizable capability. The flip side is the headline risk: African currencies are violently cyclical — the **naira lost ~69% since its June 2023 float** (and DLocal's own Nigeria revenue fell >80% YoY in Q3 2024 on that devaluation), the **Egyptian pound dropped >60% when it floated in March 2024**, and Egypt fell to ~5% of FY2025 revenue from 13% a year earlier. Regulation is fragmented across 50+ regulators and ~40 currencies — a heavy fixed cost that is itself the moat (DLocal holds licenses in 20+ African countries). DLocal's local fintech competitors and acquisition targets live here too — Flutterwave, Paystack (Stripe), Onafriq/MFS Africa, and **AZA Finance**, whose acquisition closed in Q1 2026 (note: the deal closed materially smaller than the ~$150M announced in June 2025, ultimately a ~$24M asset-and-license purchase after regulatory complications).
+
+### Asia — India's rails and Southeast Asia's digital economy
+
+DLocal operates across Asia in **India, Indonesia, Malaysia, Thailand, Vietnam and the Philippines**, and management has flagged Vietnam as a notable Q1 2026 contributor. Asia is both the largest e-commerce region on earth and the global frontier of payment-method innovation — which is exactly why merchants need an aggregator to navigate it.
+
+**India is the centerpiece.** It is the world's most populous country (~1.47 billion), young (median age ~29), with **>1 billion internet users**, and is now the **fourth-largest economy (~$4.2T, having passed Japan in 2025) and the fastest-growing major one (~6.3%)**, heading toward ~$6.8T by 2030. Its payments system is the canonical emerging-market story: **UPI is the largest real-time payment network in the world**, processing **~23 billion transactions in a single month (May 2026, ~$350B of value)** and accounting for roughly **49% of all real-time payment transactions globally**. Card penetration, by contrast, is tiny — ~111 million credit cards across 1.47 billion people — and domestic networks (RuPay, UPI-linked credit) deliberately route around Visa and Mastercard. The implication for a global merchant is decisive: **you cannot sell in India on international cards; you must support UPI, RuPay and local wallets**, which is precisely DLocal's value proposition. The catch — and a direct link to the take-rate thesis — is that **UPI carries zero merchant discount rate**, a deliberately commoditized rail (the government spent ₹3,631 crore subsidizing it in FY24, and a 2026 parliamentary committee is debating whether to restore MDR on large merchants). India's e-commerce market (~$130B in 2025, headed to ~$300B+ by 2030) and its tightening cross-border-aggregator licensing regime (RBI's PA-CB rules, mandatory data localization) raise the barriers that favor a licensed incumbent.
+
+**Southeast Asia** rounds out the region. The ASEAN digital economy reached **~$300B GMV in 2025 and is tracking to ~$600B by 2030** (e-Conomy SEA), e-commerce is its dominant sector, and **>70% of adults are unbanked or underbanked** (Vietnam 79%, Philippines 78%, Indonesia 77%). Consumers default to QR rails (QRIS, PromptPay, DuitNow), and Project Nexus is beginning to interlink these with India's UPI for cross-border settlement in 2026 — validating the long-term flow opportunity even as it commoditizes the domestic layer. *(The SEA demographic and digital-economy detail draws on the regional analysis developed in the Grab thesis.)*
+
+### Middle East & Turkey — the newest region
+
+DLocal's Middle East footprint (**UAE, Saudi Arabia, Jordan, Turkey**) is small and recent but illustrative of the same forces. **Turkey** (~88M people, young, ~88% internet penetration, high card and e-commerce adoption) is a textbook emerging-market currency case: the lira has fallen from ~2.3/USD in 2014 to ~46/USD by mid-2026 amid 30–70% inflation — exactly the FX volatility DLocal's short-settlement, spread-based model is built to absorb. The **GCC** is a high-income but still-digitizing market: Saudi Arabia's Vision 2030 push drove electronic payments to **~85% of retail transactions in 2025**, and the Gulf is one of the world's largest sources of **outbound remittances** (Saudi ~$38.5B, UAE ~$49.8B in 2024) — directly relevant to DLocal's pay-out business, since global remittances run ~$905B (~$685B to low- and middle-income countries) at an average cost (~6.3%) that digital players are paid to compress. MENA digital payments are projected to roughly double to ~$423B by 2030.
+
+### The cross-cutting pattern — why the backdrop drives the valuation
+
+Read together, the four regions make the same point four times. Each has a young, growing, mobile-first population; a majority that is unbanked or under-served by credit; a fragmented thicket of local payment methods no single integration can cover; a fast cash-to-digital shift; and a cross-border layer where legacy banking is slow and costly. This is the macro justification for the thesis's central claims:
+
+- **The growth runway is penetration, not GDP.** With EM digital-payments TAM doubling to ~$4.2T by 2030 and DLocal under 2% penetrated, the master variable (TPV) can compound for a decade even where regional GDP growth is pedestrian — the same penetration logic that underwrites the MELI and GRAB theses, here diversified across every EM region at once.
+- **Real-time rails are a double-edged sword — and explain the take-rate debate.** Pix (Brazil), UPI (India) and Africa's instant networks pour enormous new digital volume into the system (tailwind) while compressing per-transaction economics toward zero (headwind). DLocal's gradual take-rate decline is the direct, expected consequence of this structural shift — and the reason absolute gross-profit dollars, not take rate, are the right scorecard.
+- **The single-API breadth is the durable edge.** Regional specialists — Flutterwave in Africa, Razorpay in India, Mercado Pago in LatAm — can match or exceed DLocal's depth *within one geography*. DLocal's defensible advantage is that a global merchant (Amazon, Uber, Spotify, Microsoft, Nike, Temu) wants **one contract and one integration spanning all of them** — a value proposition that only strengthens as the company adds regions.
+- **The risks are regional facts, not company accidents.** Currency crises (naira, pound, lira), FX controls and repatriation friction, regulatory fragmentation, and political instability are intrinsic to operating across the emerging world. They are the substance of the Bear case — and the reason the scenario weighting leans cautious even as the opportunity is large.
+
+The backdrop is therefore bullish on *opportunity* and sober on *fragility* — precisely the asymmetry the valuation is built to reflect.
 
 ---
 
@@ -152,9 +198,9 @@ DLocal's revenue was historically dominated by Brazil, but the company has syste
 | Other Africa/Asia | $76.5 | 10% |
 | **Africa & Asia Total** | **$183.8** | **25%** |
 
-The top 3 countries (Brazil, Mexico, Egypt) account for ~53% of revenue, down from higher concentration in prior years. Africa & Asia at 25% of revenue — up from 24% in 2023 — represents a significant diversification into higher-growth, higher-margin markets.
+The top 3 countries (Brazil, Mexico, Egypt) account for ~53% of revenue, down from higher concentration in prior years. Africa & Asia at 25% of revenue — up from 24% in 2023, and 29% of gross profit by Q1 2026 — represents a significant diversification into higher-growth markets, with a deliberately mixed margin profile: Africa historically carries *higher* take rates (Egypt, Nigeria), while Asia — notably India, where UPI is zero-MDR — is structurally *lower*-margin and dilutes the blended rate. This is the geographic expression of the take-rate dynamic discussed below: the regions diluting take rate are also among the fastest-growing, which is why absolute gross-profit dollars, not blended take rate, are the right scorecard.
 
-**Egypt merchant concentration event.** Egypt experienced a notable merchant concentration event in FY2025: a large merchant moved from 100% share-of-wallet with DLocal to sub-50% by adding a redundant processor. DLocal is recovering share through performance but management acknowledges the relationship will structurally never return to 100%. This highlights the importance of merchant diversification and the risk of single-merchant dependency in individual markets.
+**Egypt — two distinct headwinds.** Egypt fell from ~13% of revenue in FY2024 to roughly ~5% in FY2025, the product of two very different forces that should not be conflated. First, a **merchant concentration event**: a large merchant moved from 100% share-of-wallet with DLocal to sub-50% by adding a redundant processor; DLocal is recovering share through performance but management acknowledges the relationship will structurally never return to 100%. Second — and the larger driver of the *reported* USD decline — was the **March 2024 float of the Egyptian pound** (a >60% devaluation), a translation effect rather than a loss of underlying activity. The distinction matters for the forward view: the concentration loss is structural, but the FX-driven portion is cyclical and partly self-hedging (DLocal earns FX spread in volatile-currency markets), and recovers as the currency stabilizes. Together they highlight both the importance of merchant diversification and the FX translation risk inherent to single-country exposure.
 
 ### 7. The Balance Sheet Is a Fortress
 
@@ -433,6 +479,20 @@ At current levels, the risk/reward is favorable for an investor willing to accep
 - [DLocal FY2024 Annual Report (20-F)](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001839439&type=20-F&dateb=&owner=include&count=40)
 - [Q4 FY2025 Results](https://www.stocktitan.net/news/DLO/d-local-reports-2025-fourth-quarter-financial-m11toka2fiil.html)
 - [DLocal Investor Relations](https://investor.dlocal.com/)
+
+**Emerging-markets regional backdrop:**
+- [World Bank Global Findex 2025 (financial inclusion / unbanked)](https://www.worldbank.org/en/publication/globalfindex)
+- [GSMA State of the Industry Report on Mobile Money 2025](https://www.gsma.com/sotir/)
+- [ACI Worldwide — Prime Time for Real-Time (real-time payments)](https://www.aciworldwide.com/real-time-payments-report)
+- [McKinsey — Global Payments Report / EM digital payments](https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report)
+- [FXC Intelligence — Cross-border payments market size](https://www.fxcintel.com/research/press-releases)
+- [NPCI — UPI product statistics (India real-time payments)](https://www.npci.org.in/product/upi/product-statistics)
+- [Google / Temasek / Bain — e-Conomy SEA 2025](https://www.bain.com/insights/e-conomy-sea-2025/)
+- [IMF World Economic Outlook (Oct 2025) — EM growth & GDP](https://www.imf.org/en/publications/weo/issues/2025/10/14/world-economic-outlook-october-2025)
+- [AfDB — Africa's Macroeconomic Performance and Outlook (Nov 2025)](https://www.afdb.org/en/documents/africas-macroeconomic-performance-and-outlook-november-2025-update)
+- [World Bank / KNOMAD — Migration and Remittances data](https://www.worldbank.org/en/topic/migrationremittancesdiasporaissues)
+- [DLocal — FY2025 results & investor presentation (TAM)](https://investor.dlocal.com/)
+- *Regional analyses cross-referenced from the author's MercadoLibre (Latin America) and Grab (Southeast Asia) theses.*
 
 ---
 
